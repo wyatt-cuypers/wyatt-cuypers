@@ -1,5 +1,5 @@
 # Hello! My name is Wyatt
-I am currently enrolled at North Dakota State University studying Computer Science. I will graduate in the spring of 2023 and plan on getting a job as a software engineer. In school, I have studied several languages, including Java, C, C#, Python, Racket, HTML, CSS, and SQL just to name a few. I have probably spent more time learning about backend-type coding, I have also enjoyed working on frontend assignments and projects in HTML and CSS.
+I am a North Dakota State University alumni as of May 2023. I currently work as a Software Engineer at 701x, working mainly in React and React Native.
 
 # Experience
 Over the summer of 2022 I had the privilege of interning at ComDel Innovation (located in Wahpeton, ND) as part of the IT department. That being said, while I did work on some IT-oriented work, I was mostly assigned to write programs intended to work alongside manufacturing machinery in the company's warehouse. Most of these projects and their descriptions for them can be found in my page's repository list.
