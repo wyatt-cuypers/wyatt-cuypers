@@ -1,5 +1,5 @@
 # Hello! My name is Wyatt
-I am a North Dakota State University alumni as of May 2023. I currently work as a Software Engineer at 701x, working mainly in React and React Native. I have extensive experience in TypeScript, JavaScript, Ruby, Java, C#, REST APIs and fullstack development
+I am a North Dakota State University alumni as of May 2023. I currently work as a Software Engineer at 701x, working mainly in React and React Native. I have extensive experience in TypeScript, JavaScript, Ruby, Java, C#, REST APIs and fullstack development.
 
 # Experience
 ### 701x - Fargo, ND
